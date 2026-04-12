@@ -1,0 +1,48 @@
+{
+  "name": "Aura — Iffat's Pregnancy",
+  "short_name": "Aura 🌸",
+  "description": "Iffat's personal pregnancy tracker — week by week",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf8",
+  "theme_color": "#f4c4bc",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["health", "lifestyle"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Daily Check",
+      "short_name": "Daily",
+      "url": "./index.html#daily",
+      "description": "Log today's vitamin, water and mood"
+    },
+    {
+      "name": "Kick Counter",
+      "short_name": "Kicks",
+      "url": "./index.html#kicks",
+      "description": "Count baby's kicks"
+    }
+  ]
+}

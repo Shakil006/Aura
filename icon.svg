@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="#fdeae6"/>
+  <!-- Petals -->
+  <ellipse cx="256" cy="160" rx="38" ry="70" fill="#f4c4bc" opacity="0.9"/>
+  <ellipse cx="256" cy="352" rx="38" ry="70" fill="#f4c4bc" opacity="0.9"/>
+  <ellipse cx="160" cy="256" rx="70" ry="38" fill="#f4c4bc" opacity="0.9"/>
+  <ellipse cx="352" cy="256" rx="70" ry="38" fill="#f4c4bc" opacity="0.9"/>
+  <ellipse cx="189" cy="189" rx="38" ry="70" fill="#fadccd" opacity="0.85" transform="rotate(45 189 189)"/>
+  <ellipse cx="323" cy="189" rx="38" ry="70" fill="#fadccd" opacity="0.85" transform="rotate(-45 323 189)"/>
+  <ellipse cx="189" cy="323" rx="38" ry="70" fill="#fadccd" opacity="0.85" transform="rotate(-45 189 323)"/>
+  <ellipse cx="323" cy="323" rx="38" ry="70" fill="#fadccd" opacity="0.85" transform="rotate(45 323 323)"/>
+  <!-- Center -->
+  <circle cx="256" cy="256" r="52" fill="#e8826e"/>
+  <circle cx="256" cy="256" r="36" fill="#fdeae6"/>
+  <!-- Baby shape in center -->
+  <circle cx="256" cy="248" r="14" fill="#e8826e"/>
+  <ellipse cx="256" cy="274" rx="10" ry="13" fill="#e8826e"/>
+</svg>
